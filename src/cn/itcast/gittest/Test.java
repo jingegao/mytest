@@ -9,4 +9,8 @@ public class Test {
         System.out.println("eeeee");
         System.out.println("fffff");
     }
+
+    public void make(){
+        System.out.println("干就完了");
+    }
 }
